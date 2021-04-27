@@ -1,0 +1,15 @@
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/temp.deps.json
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/temp.runtimeconfig.json
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/temp.runtimeconfig.dev.json
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/temp.dll
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/ref/temp.dll
+/Users/irikgafiatullin/Documents/projects/c#/temp/bin/Debug/net5.0/temp.pdb
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.csprojAssemblyReference.cache
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.AssemblyInfoInputs.cache
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.AssemblyInfo.cs
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.csproj.CoreCompileInputs.cache
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.dll
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/ref/temp.dll
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.pdb
+/Users/irikgafiatullin/Documents/projects/c#/temp/obj/Debug/net5.0/temp.genruntimeconfig.cache
