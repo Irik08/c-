@@ -6,15 +6,15 @@ namespace temp
     {
         static void Main(string[] args)
         {
-            // User irik = new User("Irik", 29);
-            // User dima = new User("Dima", 28);
+            User irik = new User("Irik", 29);
+             User dima = new User("Dima", 28);
 
-            // bool isIrikOlder = irik > dima;
-            // Console.WriteLine($"irik is older than dima = {isIrikOlder}");
+            bool isIrikOlder = irik > dima;
+            Console.WriteLine($"irik is older than dima = {isIrikOlder}");
 
-            // irik = null;
+            irik = null;
 
-            // irik?.GetInfo();
+            irik?.GetInfo();
 
             Person irik = new Employee("Irik", "PSB");
             Employee irik2 = new Employee("Irik", "PSB");
