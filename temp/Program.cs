@@ -26,6 +26,7 @@ namespace temp
             Console.WriteLine(typeof(string));
             Console.WriteLine(typeof(String));
 
+            Console.WriteLine("Hui, pizda, djigurda");
 
         }
     }
